@@ -1,1 +1,1 @@
-# js-app
+# js-app-demo-docker
